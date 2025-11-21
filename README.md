@@ -1,2 +1,2 @@
 # atividades-validacao
-Atividade - Qualidade de Software
+Repositório para divulgar código de atividade da UC de Verificação e Validação
